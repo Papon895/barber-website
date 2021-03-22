@@ -14,7 +14,7 @@ p {
 }
   /*-header section starts here-*/
 #banner {
-   background: linear-gradient(rgba(0,0,0,0.5),#009688),url(image/banner.jpg);
+   background: linear-gradient(rgba(0,0,0,0.5),#009688),url(banner.jpg);
    background-size: cover;
    background-position: center;
    height: 688px;
