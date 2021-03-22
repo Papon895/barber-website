@@ -1,0 +1,85 @@
+  
+   /*--header starts here--*/
+.logo {
+   top: 7%;
+}
+.banner-text h1 {
+   font-size: 100px;
+}
+.banner-text p {
+   margin-top: 3px;
+}
+.banner-text {
+   padding-top: 180px;
+}
+.banner-btn {
+   text-align: center
+   ;
+}
+.banner-btn a {
+   display: inline-block;
+   margin: 0 10px;
+}
+   /*--header ends here--*/
+   
+   /*--features starts here--*/
+.w-50 {
+   width: 50%;
+   float: left;
+   overflow: hidden;
+}
+.feature-img {
+   width: 50%;
+   float: left;
+   overflow: hidden;
+}
+.feature-desc h1 {
+   font-size: 22px;
+}
+.feature-text p {
+   font-size: 15px;
+}
+.feature-img img {
+   width: 90%;
+   height: 500px;
+   
+}
+.feature-text-icon {
+   padding: 8px 15px 0 0;
+}
+   /*--features rnds here--*/
+   
+   /*--service start here --*/
+.single-service {
+   flex-basis: 48%;
+}
+.service-desc p {
+   font-size: 14px;
+}
+hr {
+   margin: 10px auto;
+}
+.single-service:hover .service-desc {
+   bottom: 20%;
+}
+   
+   /*--service ends here --*/
+   
+   /*--testimonial start here--*/
+.testimonial-col {
+   flex-basis: 28%;
+}
+.rudra {
+   float: right;
+}
+   /*--testimonial ends here--*/
+   
+   /*---footer start here--*/
+.footer-left,.footer-right {
+   flex-basis: 45%;
+}
+.footer-img {
+   top: 35%;
+}
+   
+   /*---footer ends here--*/
